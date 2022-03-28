@@ -1,6 +1,4 @@
-// Dichiaro l'array e gli assegno degli elementi:
-// let mail =[matteo@gmail.com; fabio@gmail.com; pietro@gmail.com; anna@gmail.com]
-// function name(params) 
+
 // L’utente inserisce due numeri in successione, con due prompt.
 // Il software stampa il maggiore
 let primoNumero = prompt("Inserisci il primo numero:");
